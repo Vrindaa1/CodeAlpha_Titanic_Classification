@@ -24,6 +24,9 @@ Split the dataset into training and testing sets.
 Utilized a Decision Tree Classifier for survival prediction with hyperparameter tuning (max depth = 5, min samples split = 10).
 Achieved an accuracy of approximately 75.19% on the testing set.
 
+
+<img width="1213" alt="Screenshot 2024-03-02 at 11 26 07 PM" src="https://github.com/Vrindaa1/CodeAlpha_Titanic_Classification/assets/100232299/48989bb7-ee8d-4078-a94e-3badc34d4cd4">
+
 Conclusion:
 
 This project provides insights into the factors influencing survival on the Titanic and demonstrates the application of machine learning in predicting survival outcomes based on passenger attributes.
